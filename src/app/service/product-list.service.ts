@@ -4,7 +4,8 @@ import { HttpClient, HttpHeaders} from "@angular/common/http";
 @Injectable()
 
 export class BooksService{
-  private url = 'https://localhost:44302/api/bookstore';
+  private url = 'http://localhost:8081/livro/getAll';
+
 
   httpOptions={
     Headers: new HttpHeaders({'content-type': 'application/json'})
