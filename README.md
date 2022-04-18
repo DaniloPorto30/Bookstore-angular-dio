@@ -1,6 +1,19 @@
-# BookstoreAngularDio
+<h1 align="center">
+<img src="https://github.com/DaniloPorto30/Bookstore-angular-dio/blob/main/bookstore.png">
+</h1>
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 12.2.13.
+# Indice
+-[Sobre](#🧮-sobre)
+-[Tecnologias utilizadas](#Tecnologias-utilizadas)
+-[Development server](#development-server)
+
+## 🧮 Sobre
+
+O projeto Bookstore é um e-commerce que foi criado dentro do curso Bootcamp Philips na plataforma da DIO com o intuito de colocarmos em prática todo conteúdo estudado durante o curso.
+
+## Tecnologias utilizadas
+
+- [Angular CLI](https://github.com/angular/angular-cli) version 12.2.13.
 
 ## Development server
 
