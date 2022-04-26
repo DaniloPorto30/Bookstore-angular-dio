@@ -1,0 +1,40 @@
+<!-- addLivro Modal -->
+<div class="modal fade" id="addLivro" tabindex="-1" aria-labelledby="exampleModalLabel" aria-hidden="true">
+  <div class="modal-dialog">
+    <div class="modal-content">
+      <div class="modal-header">
+        <h5 class="modal-title" id="exampleModalLabel">Novo Livro</h5>
+        <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+      </div>
+      <div class="modal-body">
+        <form [formGroup]="livroDetail">
+          <div class="mb-1">
+            <label for="exampleInputEmail1" class="form-label">Image</label>
+            <input type="text" formControlName="image" class="form-control" placeholder="image">
+          </div>
+          <div class="mb-1">
+            <label for="exampleInputEmail1" class="form-label">Name</label>
+            <input type="text" formControlName="name" class="form-control" placeholder="name">
+          </div>
+          <div class="mb-1"style="width:230px; float: left;">
+            <label for="exampleInputPassword1" class="form-label">Category</label>
+            <input type="text" formControlName="category" class="form-control" placeholder="category">
+          </div>
+          <div class="mb-1"style="width:230px; float: left;margin-left: 5px">
+            <label for="exampleInputPassword1" class="form-label">Price</label>
+            <input type="number" formControlName="price" class="form-control" placeholder="Price">
+          </div>
+          <div class="mb-1"style="width:230px; float: left;" >
+            <label for="exampleInputPassword1" class="form-label">Quantity</label>
+            <input type="number" formControlName="quantity" class="form-control" placeholder="quantity">
+          </div>
+        </form>
+      </div>
+      <div class="modal-footer">
+        <button type="button" class="btn btn-secondary" data-bs-dismiss="modal">Cancelar</button>
+        <button type="button" (click)="addLivro()" class="btn btn-primary"data-bs-dismiss="modal">Adicionar</button>
+      </div>
+    </div>
+  </div>
+</div>
+
