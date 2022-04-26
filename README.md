@@ -3,11 +3,11 @@
 </h1>
 
 # Indice
--[Sobre](#🧮-sobre)
--[Tecnologias utilizadas](#Tecnologias-utilizadas)
--[Development server](#development-server)
+-[Sobre](#sobre).<br>
+-[Tecnologias utilizadas](#tecnologias-utilizadas).<br>
+-[Development server](#development-server).
 
-## 🧮 Sobre
+## Sobre 🧮
 
 O projeto Bookstore é um e-commerce que foi criado dentro do curso Bootcamp Philips na plataforma da DIO com o intuito de colocarmos em prática todo conteúdo estudado durante o curso.
 
