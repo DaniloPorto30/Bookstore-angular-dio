@@ -6,20 +6,25 @@
 <h1>
  <img src="http://g.recordit.co/BQ2z02WEob.gif">
   </h1>
+  
 # Indice
+
 -[Sobre](#sobre).<br>
 -[Tecnologias utilizadas](#tecnologias-utilizadas).<br>
 -[Development server](#development-server).
 
-## Sobre 🧮
+# Sobre
 
 O projeto Bookstore é um e-commerce que foi criado dentro do curso Bootcamp Philips na plataforma da DIO com o intuito de colocarmos em prática todo conteúdo estudado durante o curso.
+Utilizando Angular e consumindo uma API em Spring Boot Java.
 
-## Tecnologias utilizadas
+- [Link API](https://github.com/DaniloPorto30/helpdesk-api) Java version 11.
+
+# Tecnologias utilizadas
 
 - [Angular CLI](https://github.com/angular/angular-cli) version 12.2.13.
 
-## Development server
+# Development server
 
 
 Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
