@@ -2,6 +2,9 @@
 <img src="https://github.com/DaniloPorto30/Bookstore-angular-dio/blob/main/bookstore.png">
 </h1>
 
+<h1>
+ <img src="http://g.recordit.co/BQ2z02WEob.gif">
+  </h1>
 # Indice
 -[Sobre](#sobre).<br>
 -[Tecnologias utilizadas](#tecnologias-utilizadas).<br>
