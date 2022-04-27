@@ -1,5 +1,6 @@
 <div class="row">
-  <div class="col-md-4" *ngFor="let livro of livros">
+  <div class="col-md-3" *ngFor="let livro of livros | paginate: { itemsPerPage: 8, currentPage: p }">
     <app-product-item [livro]="livro"></app-product-item>
   </div>
 </div>
+<pagination-controls class="text-center m-3"  (pageChange)="p = $event"></pagination-controls>

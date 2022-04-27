@@ -1,15 +1,10 @@
 <div class="card">
   <div class="card-header">Pesquisar</div>
     <div class="card-body">
-      <form action="">
+      <form>
         <div class="form-group">
-          <label for="de">De</label>
-          <input type="number" id="de" class="form-control">
-        </div>
-        <div class="form-group">
-          <label for="de">Ate</label>
-          <input type="number" id="ate" class="form-control">
-
+          <input type="text" id="filter" class="form-control" [(ngModel)]="filters.keyword"
+           name="keyword" (input)="listLivros()">
         </div>
         <br>
         <button class="btn btn-primary btn-block btn-sm">Filtrar</button>
