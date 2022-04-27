@@ -1,3 +1,4 @@
+ 
 <h1 align="center">
 <img src="https://github.com/DaniloPorto30/Bookstore-angular-dio/blob/main/bookstore.png">
 </h1>
@@ -19,6 +20,7 @@ O projeto Bookstore é um e-commerce que foi criado dentro do curso Bootcamp Phi
 - [Angular CLI](https://github.com/angular/angular-cli) version 12.2.13.
 
 ## Development server
+
 
 Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
 
