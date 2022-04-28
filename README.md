@@ -16,13 +16,29 @@
 # Sobre
 
 O projeto Bookstore é um e-commerce que foi criado dentro do curso Bootcamp Philips na plataforma da DIO com o intuito de colocarmos em prática todo conteúdo estudado durante o curso.
-Utilizando Angular e consumindo uma API em Spring Boot Java.
+<p>
+<strong>	1.</strong> Vamos criar a interface do e-commerce em Angular, para consumir os dados da APi. <br>
+  
+<strong>	2.</strong> Vamos criar a API com os dados, utilizando Spring Boot Java <br>
+  - [Link API](https://github.com/DaniloPorto30/helpdesk-api) Java version 11.
+  
+ <strong>	3.</strong> Vamos criar uma base de dados, utilizando o banco PostgreSQL. <br>
+</p>
 
-- [Link API](https://github.com/DaniloPorto30/helpdesk-api) Java version 11.
+
 
 # Tecnologias utilizadas
 
-- [Angular CLI](https://github.com/angular/angular-cli) version 12.2.13.
+<p>
+✅  Angular version 12.2.13.<br>
+✅  Spring Boot Java JDK 11<br>
+✅  PostgreSQL version 4.4<br>
+✅  IDE para desenvolvimento Angular (usei Vscode)<br>
+✅  IDE para desenvolvimento Java Spring Boot (usei Spring suit tools)<br>
+✅  Git<br>
+✅  Conta no GitHub<br>
+</p>
+
 
 # Development server
 
