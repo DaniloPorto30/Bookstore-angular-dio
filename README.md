@@ -9,25 +9,24 @@
   
 # Indice
 
--[Sobre](#sobre).<br>
--[Tecnologias utilizadas](#tecnologias-utilizadas).<br>
--[Development server](#development-server).
+🔹 -[Sobre](#sobre).<br>
+🔹 -[Tecnologias utilizadas](#tecnologias-utilizadas).<br>
+🔹 -[Como rodar aplicação](#development-server).
 
-# Sobre
 
-O projeto Bookstore é um e-commerce que foi criado dentro do curso Bootcamp Philips na plataforma da DIO com o intuito de colocarmos em prática todo conteúdo estudado durante o curso.
+<h2 align="center"> # Sobre o projeto 🧮</h2>
+
+🔹 O projeto Bookstore é um e-commerce que foi criado dentro do curso Bootcamp Philips na plataforma da DIO com o intuito de colocarmos em prática todo conteúdo estudado durante o curso.
 <p>
 <strong>	1.</strong> Vamos criar a interface do e-commerce em Angular, para consumir os dados da APi. <br>
   
 <strong>	2.</strong> Vamos criar a API com os dados, utilizando Spring Boot Java <br>
-  - [Link API](https://github.com/DaniloPorto30/helpdesk-api) Java version 11.
   
  <strong>	3.</strong> Vamos criar uma base de dados, utilizando o banco PostgreSQL. <br>
 </p>
 
-
-
-# Tecnologias utilizadas
+-----
+<h2 align="center"> # Tecnologias utilizadas 📚 </h2>
 
 <p>
 ✅  Angular version 12.2.13.<br>
@@ -39,9 +38,38 @@ O projeto Bookstore é um e-commerce que foi criado dentro do curso Bootcamp Phi
 ✅  Conta no GitHub<br>
 </p>
 
+-----
+<h2 align="center"><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/angular/angular.png"> Angular Development </h2>
 
-# Development server
+🔹 Adicionar a paginacao - [ngx-pagination](https://www.npmjs.com/package/ngx-pagination).<br>
+🔹 Adicionar a busca - ngx search <br>
 
+-----
+<h2 align="center"><img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png"> Spring Boot Java Development </h2>
+
+<p>
+✅ Google - Refazer o projeto do zero <br>
+🔹 Criar o projeto - [Spring Initializr](https://start.spring.io/).<br>
+🔹 LinK do repositorio da API - [Link API](https://github.com/DaniloPorto30/helpdesk-api) Java version 11. <br>
+</p>
+
+-----
+<h2 align="center"><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgresql/postgresql.png"> PostgreSQL Development </h2>
+
+🔹 Download - [Link PostgreSQL](https://www.postgresql.org/).<br>
+
+-----
+<h2 align="center"> # Como rodar a aplicação 📌 </h2>
+
+<p>
+✅  Git - Clonando o projeto <br>
+ 🔹 Copie o Link do repositorio - (https://github.com/DaniloPorto30/Bookstore-angular-dio.git).<br>
+ 🔹 Abra o seu terminal da sua nova pasta e digite: <strong>git clone https://github.com/DaniloPorto30/Bookstore-angular-dio.git</strong><br>
+ 🔹 No seu terminal digite:<strong> npm install </strong><br>
+</p><br>
+
+<h2 align="center"> <img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png">
+ Development server </h2>
 
 Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
 
