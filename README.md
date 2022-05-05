@@ -49,8 +49,7 @@
 
 <p>
 ✅ Google - Refazer o projeto do zero <br>
-🔹 Criar o projeto - [Spring Initializr](https://start.spring.io/).<br>
-🔹 LinK do repositorio da API - [Link API](https://github.com/DaniloPorto30/helpdesk-api) Java version 11. <br>
+🔹 Criar o projeto - [Spring Initializr](https://start.spring.io/).<br>https://github.com/DaniloPorto30/E-commerce-bookstore-api) Java version 11. <br>
 </p>
 
 -----
